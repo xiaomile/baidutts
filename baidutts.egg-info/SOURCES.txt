@@ -1,0 +1,7 @@
+setup.py
+baidutts.egg-info/PKG-INFO
+baidutts.egg-info/SOURCES.txt
+baidutts.egg-info/dependency_links.txt
+baidutts.egg-info/requires.txt
+baidutts.egg-info/top_level.txt
+baidutts.egg-info/zip-safe
